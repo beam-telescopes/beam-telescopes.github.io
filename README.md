@@ -1,2 +1,1 @@
-beam-telescopes.github.io
-=========================
+[beam-telescopes.github.io]
